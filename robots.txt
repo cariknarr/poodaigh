@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cheishaeng.diofa-vendeghaz-orfu.hu/sitemap.xml
